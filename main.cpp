@@ -24,8 +24,8 @@ int main(){
         cout << "-= Integrantes do grupo =-" << endl;
         cout << "Luigi Bertoli Menezes; RA:22000113" << endl;
         cout << "Maria Eduarda Reis Machado; RA:22001129" << endl;
-        cout << "Henrique Laiter; RA:" << endl;
-        cout << "Julia Machado Duran" << endl;
+        cout << "Henrique Laiter; RA: 22008543" << endl;
+        cout << "Julia Machado Duran; RA: 22009210" << endl;
         cout << "Nota: Os c" << (char) 160 << "lculos ser" << (char) 198 << "o salvos no arquivo 'Ultima Trelica.txt', na mesma pasta deste execut" << (char) 160 << "vel." << endl << endl;
         cout << "1) Inserir novo n" << (char) 162 << endl;
         cout << "2) Conectar n" << (char) 162 << "s com uma barra" << endl;
